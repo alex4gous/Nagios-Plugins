@@ -4,6 +4,8 @@
 # 05.07.2021  FOURGOUS Alexandre, France
 #---------------------------------------------------
 
+### Note: rajouter l'installation du paquet whois
+
 if [ "$#" == "0" ]; then
     echo "You need tu supply at least one argument!"
     exit 1
