@@ -1,5 +1,5 @@
 # Nagios-Plugins
 
-Comment are in the script.
+Comment are in the scripts.
 
 =)
